@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "text": "Ir al medico",
-      "day": "lunes 1 pm",
+      "text": "hola bebe",
+      "day": "ya",
       "reminder": false,
       "id": 1
-    },
-    {
-      "text": "hola bro",
-      "day": "hoy hice un task",
-      "reminder": false,
-      "id": 2
     }
   ]
 }
